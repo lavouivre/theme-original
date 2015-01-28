@@ -183,7 +183,7 @@ body {
 		padding:10px;
 }
 a {
-  color: #2eb18d;
+  /*color: #2eb18d;*/
 }
 a:visited {
   color: #2eb18d;
@@ -250,7 +250,7 @@ a.brand:visited:hover {
 .nav li:hover a:link,
 .nav li:hover a:visited,
 .nav li.active a:link {
-  /*color: #333;*/
+ color: #333;
 }
 .nav li a {
   padding-right: 0 !important;
