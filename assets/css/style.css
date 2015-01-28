@@ -250,7 +250,7 @@ a.brand:visited:hover {
 .nav li:hover a:link,
 .nav li:hover a:visited,
 .nav li.active a:link {
-  color: #333;
+  /*color: #333;*/
 }
 .nav li a {
   padding-right: 0 !important;
@@ -406,7 +406,6 @@ h6 {
 }
 .post h2 {
   font-size: 18px;
-  color:red;
   line-height: 34px;
 }
 .post h3 {
